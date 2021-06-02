@@ -1,6 +1,6 @@
 # Steam-Workshop-ID-Resolver
 How to Install
-Must Have Java 8 to Run
+
 1. Download the repo, extract the jar, and run
 2. Thats is
 Requirements
